@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: #f5f5f5;
+}
+
+header {
+    background: #fed91b;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+.about {
+    padding: 60px;
+    text-align: center;
+}

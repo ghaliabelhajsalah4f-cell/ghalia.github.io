@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saint-Valentin</title>
+    <link rel="stylesheet" href="stylevalentin.css">
+</head>
+<body>
+
+    <header>
+        <h1>Saint-Valentin <3</h1>
+        <p>La fête de l'amour et de l'amitié!!</p>
+    </header>
+
+    <section class="content">
+        <img src="valentin.jpeg">
+
+        <div class="text">
+            <h2>14 février</h2>
+            <p>
+                La Saint-Valentin, généralement fêtée le 14 février, est considérée dans de nombreux pays comme la fête des amoureux. Les couples en profitent pour s'échanger des mots doux et des cadeaux comme des roses rouges (emblèmes de la passion) ainsi que des cartes, du chocolat, etc. 
+                L'origine réelle de cette fête est attestée au XIVe siècle en Grande-Bretagne encore catholique, où le 14 février, la Saint-Valentin est fêtée en tant que la fête des amoureux. Ceci, car l'on pensait que les oiseaux choisissaient ce jour pour s'apparier. Restée vivace dans le monde anglo-saxon, cette fête s'est ensuite répandue à travers le continent européen à une époque récente.
+            </p>
+
+            <button id="btn">Voir une surprise!!!</button>
+        </div>
+    </section>
+
+    <script src="valentin.js"></script>
+    <section class="lien">
+    <a href="https://www.cineby.sc/movie/9919">Voici un bon film de romance!!</a>
+    </section>
+</body>
+</html>
